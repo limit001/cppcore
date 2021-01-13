@@ -1,0 +1,2 @@
+C:\Users\test\Downloads\cppcore-master\Build\Win32Debug\100_SystemA.pdb
+C:\Users\test\Downloads\cppcore-master\Output\Win32Debug\100_SystemA\100_SystemA.pdb

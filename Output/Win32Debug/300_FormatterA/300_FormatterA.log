@@ -1,0 +1,48 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  XMLSerializer_V3.cpp
+  XMLSerializer_V2.cpp
+  XMLSerializer.cpp
+  XMLFunctions.cpp
+  XMLDeserializer_V2.cpp
+  XMLDeserializer.cpp
+  ValueArraySerializer.cpp
+  ValueArrayDeserializer.cpp
+  UTF8StringWritter.cpp
+  UTF8StringReader.cpp
+  UTF8Formatter.cpp
+  UTF8FileWritter.cpp
+  UTF8FileReader.cpp
+  TCHARFormatter.cpp
+  StringWriter.cpp
+  StringReader.cpp
+  PacketSerializer.cpp
+  PacketDeserializer.cpp
+  MarkerSerializer.cpp
+  KeyValueArraySerializer.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  KeyValueArrayDeserializer.cpp
+  KeyArraySerializer.cpp
+  JSONSerializer.cpp
+  JSONFunctions.cpp
+  JSONDeserializer.cpp
+  Interface.cpp
+  INISerializer.cpp
+  INIFormatter.cpp
+  INIDeserializer.cpp
+  FormatterCommon.cpp
+  FileWritter.cpp
+  FileReader.cpp
+  CSVSerializer.cpp
+  CSVDeserializer.cpp
+  BytesWriter.cpp
+  BytesReader.cpp
+  ASCIIStringWritter.cpp
+  ASCIIStringReader.cpp
+  ASCIIFormatter.cpp
+  ASCIIFileWritter.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  ASCIIFileReader.cpp
+  코드를 생성하고 있습니다...
+  300_FormatterA.vcxproj -> C:\Users\test\Downloads\cppcore-master\Build\Win32Debug\300_FormatterA.lib

@@ -1,0 +1,32 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  zip.cpp
+  UtilityT.cpp
+C:\Users\test\Downloads\cppcore-master\Src\200_Common\UtilityT.cpp(305,22): warning C4244: '인수': 'QWORD'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Utility.cpp
+  unzip.cpp
+  ThreadPool.cpp
+  Thread.cpp
+  TextFileWriterT.cpp
+  TextFileWriter.cpp
+  TextFileReaderT.cpp
+  TextFileReader.cpp
+  SharedMemory.cpp
+  SemaphoreT.cpp
+  Semaphore.cpp
+  PipePeer.cpp
+  PEParserT.cpp
+  PEParser.cpp
+  MutexT.cpp
+  Mutex.cpp
+  MemoryMappedFileT.cpp
+  MemoryMappedFile.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  INIParserFunc.cpp
+  INIParser.cpp
+  HashFunction.cpp
+  FileUtility.cpp
+  DuplicatedProcChecker.cpp
+  CriticalSection.cpp
+  코드를 생성하고 있습니다...
+  200_CommonW.vcxproj -> C:\Users\test\Downloads\cppcore-master\Build\Win32Debug\200_CommonW.lib

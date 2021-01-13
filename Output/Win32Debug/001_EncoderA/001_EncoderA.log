@@ -1,0 +1,67 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  aestab.c
+  aeskey.c
+  aeshash.c
+  aescrypt.c
+  코드를 생성하고 있습니다...
+cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  SymSeed256.cpp
+  SymSeed128.cpp
+  SymPlain.cpp
+  SymModePlain.cpp
+  SymModePCBC.cpp
+  SymModeOFB.cpp
+  SymModeECB.cpp
+  SymModeCTR.cpp
+  SymModeCFB.cpp
+  SymModeCBC.cpp
+  SymCipherFunction.cpp
+  SymCipher.cpp
+  SymAES.cpp
+  StringSymCipherFunction.cpp
+  StringFunction.cpp
+  ui.cpp
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\ui.cpp(60,7): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\ui.cpp(71,3): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  match.cpp
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\match.cpp(43,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\match.cpp(74,17): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  helpers.cpp
+  fuzzy.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(603,1): warning C4005: 'TEXT': 매크로 재정의
+C:\Users\test\Downloads\cppcore-master\Src\__Common\Define.h(12): message : 'TEXT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\tchar.h(2427,1): warning C4005: '_T': 매크로 재정의
+C:\Users\test\Downloads\cppcore-master\Src\__Common\Define.h(15): message : '_T'의 이전 정의를 참조하십시오.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\fuzzy.cpp(361,7): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\fuzzy.cpp(555,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\fuzzy.cpp(636,9): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\fuzzy.cpp(736,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\fuzzy.cpp(737,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  find-file-size.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  filedata.cpp
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\filedata.cpp(24,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\ssdeep\filedata.cpp(134,17): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  edit_dist.cpp
+  sha512.cpp
+  sha256.cpp
+  SHA1.cpp
+  SEED_256_KISA.cpp
+  SEED_128_KISA.cpp
+  rc4.cpp
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\rc4.cpp(11,30): warning C4244: '=': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PubKeyRSA.cpp
+  PubKeyElGamal.cpp
+  PubKeyCipherFunction.cpp
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\PubKeyCipherFunction.cpp(23,49): warning C4244: '인수': 'CryptoPP::lword'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\PubKeyCipherFunction.cpp(28,47): warning C4244: '인수': 'CryptoPP::lword'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\PubKeyCipherFunction.cpp(43,49): warning C4244: '인수': 'CryptoPP::lword'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\test\Downloads\cppcore-master\Src\001_Encoder\PubKeyCipherFunction.cpp(49,47): warning C4244: '인수': 'CryptoPP::lword'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  md5.cpp
+  HashFunction.cpp
+  has160.cpp
+  CryptoPPSingleton.cpp
+  Base64.cpp
+  코드를 생성하고 있습니다...
+  001_EncoderA.vcxproj -> C:\Users\test\Downloads\cppcore-master\Build\Win32Debug\001_EncoderA.lib

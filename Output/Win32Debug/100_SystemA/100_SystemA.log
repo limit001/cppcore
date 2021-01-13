@@ -1,0 +1,33 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  TZFileParser.cpp
+  Socket_Win.cpp
+  SocketDefine_Win.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(603,1): warning C4005: 'TEXT': 매크로 재정의
+C:\Users\test\Downloads\cppcore-master\Src\__Common\Define.h(12): message : 'TEXT'의 이전 정의를 참조하십시오.
+  SocketDefine.cpp
+  NetworkT_Win.cpp
+  NetworkT.cpp
+  MemoryLeakFinder_Win.cpp
+  LogWorker.cpp
+  LogEx.cpp
+  Log.cpp
+  KernelObject_Win.cpp
+  KernelObjectT_Win.cpp
+  InterlockedOperation_Win.cpp
+  Information.cpp
+  GlobalSemaphoreMap.cpp
+  FileSystem_Win.cpp
+  FileSystemT_Win.cpp
+  Environment_Win.cpp
+C:\Users\test\Downloads\cppcore-master\Src\100_System\Environment_Win.cpp(168,19): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+C:\Users\test\Downloads\cppcore-master\Src\100_System\Environment_Win.cpp(172,20): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  EnvironmentT_Win.cpp
+C:\Users\test\Downloads\cppcore-master\Src\100_System\EnvironmentT_Win.cpp(131,26): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\test\Downloads\cppcore-master\Src\100_System\EnvironmentT_Win.cpp(173,26): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  EnvironmentT.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Environment.cpp
+  ELFParser.cpp
+  코드를 생성하고 있습니다...
+  100_SystemA.vcxproj -> C:\Users\test\Downloads\cppcore-master\Build\Win32Debug\100_SystemA.lib

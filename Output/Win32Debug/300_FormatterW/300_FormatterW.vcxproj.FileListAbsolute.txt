@@ -1,0 +1,2 @@
+C:\Users\test\Downloads\cppcore-master\Build\Win32Debug\300_FormatterW.pdb
+C:\Users\test\Downloads\cppcore-master\Output\Win32Debug\300_FormatterW\300_FormatterW.pdb

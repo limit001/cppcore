@@ -1,0 +1,2 @@
+C:\Users\test\Downloads\cppcore-master\Build\Win32Debug\000_StringW.pdb
+C:\Users\test\Downloads\cppcore-master\Output\Win32Debug\000_StringW\000_StringW.pdb

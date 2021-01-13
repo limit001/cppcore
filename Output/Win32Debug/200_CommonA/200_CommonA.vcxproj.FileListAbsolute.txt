@@ -1,0 +1,2 @@
+C:\Users\test\Downloads\cppcore-master\Build\Win32Debug\200_CommonA.pdb
+C:\Users\test\Downloads\cppcore-master\Output\Win32Debug\200_CommonA\200_CommonA.pdb
